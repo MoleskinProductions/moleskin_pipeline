@@ -1,0 +1,10 @@
+# Houdini specific files
+*.hip
+*.hiplc
+*.hipnc
+*.bgeo
+*.bgeosc
+
+# Temporary files
+__pycache__/
+*.pyc
